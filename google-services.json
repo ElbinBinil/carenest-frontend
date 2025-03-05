@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112793550704",
+    "project_id": "carenest-track",
+    "storage_bucket": "carenest-track.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112793550704:android:ce85510f9cf564300c59b5",
+        "android_client_info": {
+          "package_name": "com.carenest.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyVqsTUB_P5z9ihND2mQ5PTFqsMPcmKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

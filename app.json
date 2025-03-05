@@ -15,7 +15,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.carenest.app", // Replace with your desired package name
+      "googleServicesFile": "./google-services.json", // Add this line
+      "permissions": ["POST_NOTIFICATIONS"] // Add this line
     },
     "web": {
       "bundler": "metro",
