@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "service-learning-frontend",
-    "slug": "service-learning-frontend",
+    "name": "Carenest",
+    "slug": "Carenest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,9 +16,11 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.carenest.app", // Replace with your desired package name
-      "googleServicesFile": "./google-services.json", // Add this line
-      "permissions": ["POST_NOTIFICATIONS"] // Add this line
+      "package": "com.carenest.app",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "POST_NOTIFICATIONS"
+      ]
     },
     "web": {
       "bundler": "metro",
@@ -39,6 +41,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b84ac9c3-25cf-4a6e-bfe8-093d9313f83e"
+      }
     }
   }
 }
