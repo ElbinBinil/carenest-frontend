@@ -4,7 +4,7 @@ CareNest is a comprehensive orphanage management solution designed to digitize a
 
 <p  align="center">
 
-<img  src="https://images.unsplash.com/photo-1542810634-71277d95dcbb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  alt="CareNest Banner"  width="700" />
+<img  src="screenshots/Care nest.png"  alt="CareNest Banner"  width="700" />
 
 </p>
 
