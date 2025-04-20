@@ -10,6 +10,10 @@ CareNest is a comprehensive orphanage management solution designed to digitize a
 
 ---
 
+## ⚒️ Releases
+
+- [Carenest v1.0](https://github.com/ElbinBinil/carenest-frontend/releases/tag/v1.0)
+
 ## 📱 Key Features
 
 - 🔐 **Role-Based Login System**
